@@ -1,16 +1,54 @@
-<h1 align="left">Hi 👋, I'm Hrishikesh Naramparambath</h1>
-- 🌱 I’m currently learning **Spring Boot**
+# Hi, I'm Hrishikesh Naramparambath 👋
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hrishikesh1312](https://github.com/Hrishikesh1312)
+Data Engineer at Deloitte · Deep Learning enthusiast · Aspiring novelist
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, OOPS and Linux**
+---
 
-- 📫 How to reach me **hrishabari@gmail.com**
+## What I do
 
-<p align="left">
-</p>
+By day, I build data pipelines and intelligent systems — working with **Snowflake**, **dbt**, and **RAG-based AI** on **Cortex AI**. By night, I'm usually either training a neural network, reading a thriller, or watching a film I'll probably write about later.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+My academic background is in **Computer Science with a specialisation in AI & Robotics**, and my real obsession lies at the intersection of deep learning and generative AI — understanding how machines learn to see, reason, and create.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrishikesh1312&show_icons=true&locale=en&layout=compact" alt="hrishikesh1312" /></p>
+---
+
+## Things I've built
+
+These are a few of my notable projects:
+
+### 🧊 [CAD-DR](https://github.com/Hrishikesh1312/CAD-DR)
+A **3D convolutional autoencoder** for dimensionality reduction of CAD models. Compresses STL files by up to **98%** while preserving geometric fidelity — built on an EfficientNet-inspired architecture with a full STL → point cloud → voxel pipeline and a Streamlit GUI for real-time latent space visualization.
+
+### 💵 [Currency Tracker](https://github.com/Hrishikesh1312/Currency-Tracker)
+A **multi-level Indian currency classifier** built with TensorFlow. Cascades through binary classification (note vs. coin), denomination detection, and fine-grained recognition — designed to handle real-world lighting and occlusion.
+
+---
+
+## Stack
+
+```
+Data Engineering   →   Snowflake · dbt · SQL · ELT Pipelines
+AI / ML            →   PyTorch · TensorFlow · RAG Pipelines · Cortex AI
+Languages          →   Python · Java · C++ · Bash
+Tools              →   Linux · Git · GitHub · UiPath Studio
+```
+
+---
+
+## Outside of code
+
+- 📚 Voracious reader of mysteries and thrillers — Agatha Christie, Keigo Higashino, Seishi Yokomizo
+- 🎬 Cinephile with strong opinions about narrative structure
+- ✍️ Slowly working toward writing a novel of my own
+
+---
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-naramparambath-24b010222/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hrishikesh1312)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hrishabari@gmail.com)
+
+---
+
+*"The line between engineering and storytelling is thinner than you'd think."*
