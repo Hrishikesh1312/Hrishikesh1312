@@ -7,5 +7,3 @@ Outside of work, I enjoy working on AI and ML-related projects. My projects are 
 Most of the projects you see here were made in my free-time, either because of some research-commitment or some personal hobby.
 
 Outside of tech, I enjoy reading, and one of the things on my long-term bucket list is to write and publish a novel.
-
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-naramparambath-24b010222).
