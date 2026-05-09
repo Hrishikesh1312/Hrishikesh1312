@@ -1,54 +1,11 @@
-# Hi, I'm Hrishikesh Naramparambath 👋
+Hi, I'm Hrishikesh!
 
-Data Engineer at Deloitte · Deep Learning enthusiast · Aspiring novelist
+I currently work at Deloitte US-India, where I primarily focus on data engineering. My day-to-day work involves technologies like Snowflake and dbt, along with building RAG-based applications using Cortex Code.
 
----
+Outside of work, I enjoy working on AI and ML-related projects. My projects are mainly focused on deep learning, and I have an affinity towards localized AI. I started out working primarily with TensorFlow, but over time I’ve increasingly moved toward PyTorch for research and experimentation.
 
-## What I do
+Most of the projects you see here were made in my free-time, either because of some research-commitment or some personal hobby.
 
-By day, I build data pipelines and intelligent systems — working with **Snowflake**, **dbt**, and **RAG-based AI** on **Cortex AI**. By night, I'm usually either training a neural network, reading a thriller, or watching a film I'll probably write about later.
+Outside of tech, I enjoy reading, and one of the things on my long-term bucket list is to write and publish a novel.
 
-My academic background is in **Computer Science with a specialisation in AI & Robotics**, and my real obsession lies at the intersection of deep learning and generative AI — understanding how machines learn to see, reason, and create.
-
----
-
-## Things I've built
-
-These are a few of my notable projects:
-
-### 🧊 [CAD-DR](https://github.com/Hrishikesh1312/CAD-DR)
-A **3D convolutional autoencoder** for dimensionality reduction of CAD models. Compresses STL files by up to **98%** while preserving geometric fidelity — built on an EfficientNet-inspired architecture with a full STL → point cloud → voxel pipeline and a Streamlit GUI for real-time latent space visualization.
-
-### 💵 [Currency Tracker](https://github.com/Hrishikesh1312/Currency-Tracker)
-A **multi-level Indian currency classifier** built with TensorFlow. Cascades through binary classification (note vs. coin), denomination detection, and fine-grained recognition — designed to handle real-world lighting and occlusion.
-
----
-
-## Stack
-
-```
-Data Engineering   →   Snowflake · dbt · SQL · ELT Pipelines
-AI / ML            →   PyTorch · TensorFlow · RAG Pipelines · Cortex AI
-Languages          →   Python · Java · C++ · Bash
-Tools              →   Linux · Git · GitHub · UiPath Studio
-```
-
----
-
-## Outside of code
-
-- 📚 Voracious reader of mysteries and thrillers — Agatha Christie, Keigo Higashino, Seishi Yokomizo
-- 🎬 Cinephile with strong opinions about narrative structure
-- ✍️ Slowly working toward writing a novel of my own
-
----
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrishikesh-naramparambath-24b010222/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hrishikesh1312)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hrishabari@gmail.com)
-
----
-
-*"The line between engineering and storytelling is thinner than you'd think."*
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/hrishikesh-naramparambath-24b010222).
